@@ -2,7 +2,9 @@
 <h1 align="center"><b>Hi , I'm Nicolas Ochoa </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/Nickozero3/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=13&duration=2000&pause=1000&width=435&lines=Proactivo%2C+colaborador%2C+entusiasta.+Busco+oportunidades."></a>
+  <a href="https://github.com/Nickozero3/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=13&duration=4000&pause=1000&color=6234F7&width=435&lines=Proactivo%2C+colaborador%2C+entusiasta.+Busco+oportunidades."></a>
+	<br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=11&duration=4000&pause=1000&color=6234F7&width=435&lines=Proactive%2C+collaborative%2C+enthusiastic.+I+look+for+opportunities." alt="Typing SVG" /></a>
 </p>
 
 
