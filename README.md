@@ -11,7 +11,7 @@
 - A passionate Self-taught Front-end developer
 - Playing video games in my spare time
 - Currently learning Web Development by Self
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- I’m currently open for an Intern or a new job opportunity, this is my resume https://drive.google.com/file/d/1hd1Wgh84C8yetOt_3fGqdS2jKkhQtCbp/view?usp=sharing)
 
 <br><br>
 
